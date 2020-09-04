@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Formulários</title>
+  </head>
+  <body>
+    <form>
+      <!-- Exemplo de Fieldset -->
+      <fieldset>
+        <legend>Endereço:</legend>
+
+        <div>
+          <label for="rua">Rua</label>
+          <input type="text" name="rua" id="rua" readonly />
+        </div>
+
+        <div>
+          <label for="numero">Número</label>
+
+          <input type="text" name="numero" id="numero" required />
+        </div>
+
+        <div>
+          <label for="complemento">Complemento</label>
+          <input type="text" name="complemento" id="complemento" required />
+        </div>
+      </fieldset>
+
+      <!-- Exemplo de campo de senha -->
+      <div>
+        <label for="pwd">Senha:</label>
+        <input type="password" id="pwd" name="pwd" />
+      </div>
+
+      <!-- Exemplo de checkbox -->
+      <div>
+        <label for="small">Pequeno</label>
+        <input type="checkbox" id="small" name="small" value="small" checked />
+
+        <label for="medium">Médio</label>
+        <input type="checkbox" id="medium" name="medium" value="medium" />
+      </div>
+
+      <!-- Exemplo de range -->
+      <div>
+        <input type="range" />
+      </div>
+
+      <!-- Exemplo de input color -->
+      <div>
+        <input type="color" />
+      </div>
+
+      <!-- Exemplo de botão submit -->
+      <button type="submit">Esse é um botão de submit</button>
+    </form>
+  </body>
+</html>

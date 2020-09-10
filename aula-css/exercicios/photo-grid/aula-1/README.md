@@ -60,8 +60,9 @@ aulas-css/exercicios/aula1/
   Fonte do parágrafo: Arial, 16px 
   Fonte do título: Roboto Slab
 ```
-- A escolha das fotos é de vocês. Pode ser de filme, séries, banda predileta e por aí vai;  
-- Procurem utilizar tamanhos de fontes legíveis. Para textos corridos, parágrafos utilize 14px ou 16px;  
-- Está sem ideia de imagens? Segue algumas referências: https://picsum.photos/ e http://random.cat/; 
+
+- A escolha das fotos é de vocês. Pode ser de filme, séries, banda predileta, etc
+- Procurem utilizar tamanhos de fontes legíveis. Para textos corridos, parágrafos utilize 14px ou 16px
+- Está sem ideia de imagens? Segue algumas referências: https://picsum.photos/ e http://random.cat/
 - Referência de webfonts: https://fonts.google.com/ 
 - Referência para paleta de cores: https://coolors.co/generator

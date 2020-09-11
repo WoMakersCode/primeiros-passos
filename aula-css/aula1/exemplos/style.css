@@ -1,0 +1,47 @@
+h1 {
+  color: #ff0000;
+  font-size: 20px;
+}
+p {
+  color: #000000;
+  font-family: "Arial", sans-serif;
+  font-size: 12px;
+}
+
+img {
+  width: 300px;
+}
+
+@media (min-width: 768px) {
+  h1 {
+    font-size: 24px;
+    color: blue;
+  }
+  p {
+    font-size: 18px;
+    color: green;
+  }
+  img {
+    width: 600px;
+  }
+}
+
+@media print {
+  h1 {
+    color: green;
+    font-size: 32px;
+    text-align: center;
+  }
+
+  p {
+    color: #000;
+    font-size: 18px;
+    text-align: center;
+  }
+
+  img {
+    width: 400px;
+    margin: 0 auto;
+    display: block;
+  }
+}

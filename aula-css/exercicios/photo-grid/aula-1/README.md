@@ -1,7 +1,7 @@
 
 ## Photo Grid | Exercício Aula 1 
 
-O objetivo desse primeiro exercício é implementar a estrutura HTML das páginas e a customização inicial delas com CSS (vamos deixar a parte do posicionamento dos elementos com o Flexbox como exercício 2).
+O objetivo desse primeiro exercício é implementar a estrutura HTML das páginas e a customização inicial delas com CSS (vamos deixar a parte do posicionamento dos elementos com o Flexbox no exercício 2).
 
 ### Briefing 
 

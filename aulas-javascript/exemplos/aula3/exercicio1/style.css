@@ -1,0 +1,8 @@
+.active {
+  color: #d040b3;
+}
+
+ul > li {
+  display: inline-block;
+  padding: 15px;
+}

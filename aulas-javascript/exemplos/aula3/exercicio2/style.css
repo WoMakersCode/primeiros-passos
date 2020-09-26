@@ -1,0 +1,17 @@
+.success {
+  background-color: #c3ddc3;
+  border: 1px solid #567b56;
+  color: #567b56;
+}
+
+.notification {
+  width: 300px;
+  padding: 15px;
+  border-radius: 5px;
+  margin-top: 15px;
+  position: absolute;
+  right: 20px;
+  top: 20px;
+  opacity: 0;
+  transition: opacity 500ms;
+}
